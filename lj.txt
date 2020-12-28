@@ -1,0 +1,97 @@
+Vue.js Learning Journal 
+
+
+Video Link 1 : https://youtu.be/5LYrN_cAJoA
+
+    Content : 1) Introduction
+
+Video Link 2 : https://youtu.be/3ROjxrSa5pk
+
+    Content : 1) The Vue Instance 
+
+Video Link 3 : https://youtu.be/2MAoq2-2nnE
+
+    Content : 1) Data and Methods
+
+Video Link 4 : https://youtu.be/xIOwFTCBBDg
+
+    Content : 1)Data Binding
+
+Video Link 5 : https://youtu.be/DCwOPBxsXDs
+
+    Content : 1)Events
+
+Video Link 6 : https://youtu.be/VqKjr4I4Fdo
+
+    Content : 1)Event Modifiers
+
+Video Link 7 : https://youtu.be/Ni6qd0uRoKY
+
+    Content : 1)Keyboard Events
+
+Video Link 8 : 
+
+    Content : 
+
+Video Link 3 : 
+
+    Content : 
+
+Video Link 3 : 
+
+    Content : 
+
+Video Link 3 : 
+
+    Content : 
+
+Video Link 3 : 
+
+    Content : 
+
+Video Link 3 : 
+
+    Content : 
+
+Video Link 3 : 
+
+    Content : 
+
+Video Link 3 : 
+
+    Content : 
+
+
+Video Link 3 : 
+
+    Content : 
+
+Video Link 3 : 
+
+    Content : 
+
+Video Link 3 : 
+
+    Content : 
+
+Video Link 3 : 
+
+    Content : 
+
+Video Link 3 : 
+
+    Content : 
+
+Video Link 3 : 
+
+    Content : 
+
+Video Link 3 : 
+
+    Content : 
+
+
+Video Link 3 : 
+
+    Content : 
+
